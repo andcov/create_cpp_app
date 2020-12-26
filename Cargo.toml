@@ -1,0 +1,13 @@
+[package]
+name = "create_cpp_app"
+version = "0.1.0"
+authors = ["andreico123 <andreicovaci123@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3.13"
+termimad = "0.5"
+crossterm = "0.18.2"
+clap = "3.0.0-beta.2"
